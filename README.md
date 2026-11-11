@@ -256,3 +256,5 @@ python -m pytest tests/test_reporter.py -v         # Report synthesis & fallback
 ## License
 
 MIT
+#   g e n - a i - p r o j e c t  
+ 
